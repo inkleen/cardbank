@@ -5292,7 +5292,7 @@
       "id": "662",
       "bankName": "中国邮政储蓄银行",
       "bankCode": "01000000",
-      "bankIco": require("../static/logo/01000000.png")
+      "bankIco": "https://s2.ax1x.com/2019/10/25/KdxIFf.png"
     }
   ,
   {
