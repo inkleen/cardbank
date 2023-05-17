@@ -1,4 +1,4 @@
-const bankData =[
+[
   {
     
       "id": "1",
@@ -5967,12 +5967,3 @@ const bankData =[
       "bankIco": require("../static/logo/15273993.png")
   }
 ]
-
-function refresh(){
- return ''
-}
-
-export {
-  bankData,
-  refresh
-}
